@@ -12,6 +12,7 @@ function which should be defined in main.cpp.
 */
 
 #include <iostream>
+#include "funcs.h"
 
 // lower and upper bounds 
 // L <= i < U separated by spaces (it will include the lower limit, but exclude the upper)
