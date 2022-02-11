@@ -11,7 +11,7 @@ sum of two previous ones, F(n) = F(n−1) + F(n−2) --> 0, 1, 1, 2, 3, 5, 8, 13
 
 Observation: As it approaches 2 billion, (at the 47th term), the integer becomes negative
 because it exceeds the range of values int can store. Int cannot go beyond 4 bytes which is 
-2147483647 for the positive values.
+around 2 billion and up for the positive values.
 */
 
 #include <iostream>
